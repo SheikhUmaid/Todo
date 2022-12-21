@@ -3,4 +3,3 @@ django
 django-filter
 django-rest-framework
 djangorestframework
-psycopg2
