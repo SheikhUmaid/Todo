@@ -1,15 +1,12 @@
 asgiref
-backports.zoneinfo
-Django
+django
 django-filter
 django-rest-framework
 djangorestframework
-djangorestframework-simplejwt
 importlib-metadata
 Markdown
 PyJWT
 pytz
 sqlparse
 tzdata
-zipp
 psycopg2
