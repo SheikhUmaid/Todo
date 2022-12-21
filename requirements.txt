@@ -5,4 +5,4 @@ django-rest-framework
 djangorestframework
 sqlparse
 tzdata
-pyscopg2
+psycopg2
