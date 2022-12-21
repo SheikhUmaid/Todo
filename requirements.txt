@@ -1,12 +1,6 @@
-asgiref
+
 django
 django-filter
 django-rest-framework
 djangorestframework
-importlib-metadata
-Markdown
-PyJWT
-pytz
-sqlparse
-tzdata
 psycopg2
